@@ -7,6 +7,7 @@ Absence Days: The number of days the student was absent.
 Extracurricular Activities: Whether the student participates in extracurricular activities.
 Weekly Self-Study Hours: The number of hours the student spends on self-study per week.
 Subject Scores: Scores in various subjects including math, history, physics, chemistry, biology, English, and geography.
+
 Model Training:
 The model was trained using the random forest algorithm, a popular ensemble learning technique that builds multiple decision trees and combines their predictions to improve accuracy. The training dataset consisted of labeled examples where each student's attributes were associated with their career aspirations.
 
